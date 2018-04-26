@@ -1,0 +1,52 @@
+2018-04-26T00:34:42.669Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-26T00:34:42.679Z - normal: checking language setting...
+2018-04-26T00:34:42.679Z - normal: Language: zh
+2018-04-26T00:34:44.964Z - success: protocol editor-framework registered
+2018-04-26T00:34:44.965Z - success: protocol app registered
+2018-04-26T00:34:44.965Z - success: protocol theme registered
+2018-04-26T00:34:44.965Z - success: protocol profile registered
+2018-04-26T00:34:44.965Z - success: protocol packages registered
+2018-04-26T00:34:44.966Z - success: protocol unpack registerred
+2018-04-26T00:34:44.966Z - success: protocol disable-commonjs registerred
+2018-04-26T00:34:45.619Z - normal: connected!
+2018-04-26T00:34:45.626Z - normal: Check project C:\Users\傻薇薇\Desktop\start_project
+2018-04-26T00:34:45.635Z - normal: Initializing Cocos2d
+2018-04-26T00:34:46.383Z - normal: Initializing Asset Database
+2018-04-26T00:34:46.501Z - success: protocol uuid registerred
+2018-04-26T00:34:46.502Z - success: protocol db registerred
+2018-04-26T00:34:46.502Z - success: protocol thumbnail registerred
+2018-04-26T00:34:46.502Z - normal: Loading editor/builtin packages
+2018-04-26T00:34:46.555Z - success: anysdk loaded
+2018-04-26T00:34:46.942Z - success: assets loaded
+2018-04-26T00:34:46.946Z - success: builder loaded
+2018-04-26T00:34:46.953Z - success: hierarchy loaded
+2018-04-26T00:34:46.960Z - success: inspector loaded
+2018-04-26T00:34:46.962Z - success: keystore loaded
+2018-04-26T00:34:46.969Z - success: node-library loaded
+2018-04-26T00:34:46.973Z - success: package-asset loaded
+2018-04-26T00:34:46.978Z - success: preferences loaded
+2018-04-26T00:34:47.012Z - success: project-importer loaded
+2018-04-26T00:34:47.018Z - success: project-settings loaded
+2018-04-26T00:34:47.021Z - success: ui-kit loaded
+2018-04-26T00:34:47.024Z - success: ui-grid loaded
+2018-04-26T00:34:47.031Z - success: scene loaded
+2018-04-26T00:34:47.039Z - success: sprite-editor loaded
+2018-04-26T00:34:47.047Z - success: store loaded
+2018-04-26T00:34:47.059Z - success: timeline loaded
+2018-04-26T00:34:47.060Z - normal: Loading builtin packages
+2018-04-26T00:34:47.067Z - success: asset-db-debugger loaded
+2018-04-26T00:34:47.069Z - success: code-editor loaded
+2018-04-26T00:34:47.070Z - success: color-picker loaded
+2018-04-26T00:34:47.075Z - success: console loaded
+2018-04-26T00:34:47.079Z - success: package-manager loaded
+2018-04-26T00:34:47.103Z - success: sdkbox loaded
+2018-04-26T00:34:47.108Z - success: tester loaded
+2018-04-26T00:34:47.112Z - success: ui-kit-preview-extra loaded
+2018-04-26T00:34:47.117Z - success: ui-kit-preview loaded
+2018-04-26T00:34:47.120Z - success: ui-tree loaded
+2018-04-26T00:34:49.542Z - normal: Initializing project C:\Users\傻薇薇\Desktop\start_project
+2018-04-26T00:34:49.554Z - normal: Loading packages
+2018-04-26T00:34:49.574Z - normal: Watching packages
+2018-04-26T00:34:49.600Z - normal: Run Application
+2018-04-26T00:34:51.170Z - success: preview server running at http://localhost:7456
+2018-04-26T00:35:10.478Z - normal: 1.5.1
